@@ -5,6 +5,6 @@ https://discord.gg/quikkster
 
 https://YouTube.com/Quikkster
 
-@QKSTR
+https://twitter.com/QKSTR
 
-@QuikksServers
+https://twitter.com/QuikksServers
