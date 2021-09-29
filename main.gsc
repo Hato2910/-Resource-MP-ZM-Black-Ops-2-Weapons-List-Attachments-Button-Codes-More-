@@ -412,9 +412,6 @@ slowgun_upgraded_zm
 //MONKEY BOMBS
 cymbal_monkey_zm
 
-//SEMTEX
-sticky_grenade_zm
-
 //FRAGS
 frag_grenade_zm
 
